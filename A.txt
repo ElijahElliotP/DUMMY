@@ -5,3 +5,5 @@ Another change.
 This can be feature01.
 
 I will make an important change to "main branch" and then rebase "feature_one" from it. Let's see how the conflict appears now.
+The lines below were in conflict with the lines above.
+I've renamed the branch using the desktop client to "feature_one" and it does not alter the branch on github (the remote) where it is still called "feature01"
