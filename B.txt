@@ -2,3 +2,7 @@ A second file.
 
 I will merge feature01 into main, because I like the changes in feature01
 This change is also part of feature01. It is feature01.1
+
+Development continues on this branch. Feature01.2
+Feature01.3
+
