@@ -4,3 +4,4 @@ Another change.
 
 This can be feature01.
 
+I will make an important change to "main branch" and then rebase "feature_one" from it. Let's see how the conflict appears now.
